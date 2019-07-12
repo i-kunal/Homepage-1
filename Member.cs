@@ -37,6 +37,7 @@ namespace Homepage
         {
             EditAccount editAccount = new EditAccount();
             editAccount.Show();
+            String s="hi";
         }
     }
 }
